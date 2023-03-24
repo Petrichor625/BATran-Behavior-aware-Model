@@ -66,6 +66,6 @@ In conclusion, the behavior-aware model represents a major advancement in the de
 
 
 
-<img src="D:\学习\博士生\博一\code\pooling\polar.png" title="Pooling approaches" style="zoom: 50%;" />
+<img src="https://github.com/Petrichor625/BATran-Behavior-aware-Model" title="An overview of the Polar coordinates system and the proposed behavior-aware and position-aware modules" style="zoom: 50%;" />
 
-<img src="D:\学习\博士生\博一\code\pooling\trajectory-3.png" title="Pooling approaches" style="zoom: 50%;" />
+<img src="D:\学习\博士生\博一\code\pooling\trajectory-3.png" title="Multi-modal maneuver prediction framework with corresponding probability outputs" style="zoom: 50%;" />
