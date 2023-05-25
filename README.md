@@ -216,12 +216,4 @@ This work aims to introduce a novel **lightweight and map-free model** that elim
 3. This work proposes an innovative pooling mechanism by **defining the motion of vehicles in polar coordinates and using radial motion velocity to extract the relative positions of vehicles**, avoiding reliance on absolute positions and individual grid cells. Compared to the Cartesian coordinate system, it provides an easier way to represent directions and distances relative to the vehicle, which can help account for the curvature of the road using the angle, radius, and radial velocity of motion. Thus, it is consistent with human perception and cognition and can be used for complex and non-regularized scenes, such as roundabouts, and irregular intersections. This can make it easier to incorporate other factors that may affect the motion of the vehicle, such as the friction of the road surface or the virtual effects of interaction between ego vehicles and surrounding vehicles.
 4. We trained our model **on a reduced portion of the training set, specifically 25%,** the evaluation results indicate that our model achieves significantly lower RMSE and NLL values compared to most of the baselines, even when using a much smaller amount of training data. Remarkably, it maintains competitive performance **even with 25% missing data**, demonstrating its robustness in a variety of traffic scenes.
 
-### An overview of the Polar coordinates system and the proposed behavior-aware and position-aware modules. ###
-![image](https://github.com/Petrichor625/BATran-Behavior-aware-Model/blob/main/polar.png)
-
-
-
-
-### Multi-modal maneuver prediction framework with corresponding probability outputs. ###
-![image](https://github.com/Petrichor625/BATran-Behavior-aware-Model/blob/main/trajectory-3.png)
 
