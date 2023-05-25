@@ -2,7 +2,7 @@
 
 This repository is the code of Achieving Human-Like Trajectory Prediction in Autonomous Vehicles-A Behavior-Aware Approach.
 
-***The NGSIM and HighD datasets are uploaded in the Releases in this repository.***
+***The NGSIM dataset is uploaded in the Releases in this repository, for access to other datasets (HighD and RounD) please see README .***
 
 
 
